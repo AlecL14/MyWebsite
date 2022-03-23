@@ -1,3 +1,14 @@
 body {
-  background-color: #000022;
+  background-color: #001242;
+
+
+
+}
+
+h1 {
+  color: #005e7c;
+  font-size: 75px;
+  font-family: Arial, Helvetica, Verdana;
+  text-align: center;
+  background-color: #040f16;
 }
